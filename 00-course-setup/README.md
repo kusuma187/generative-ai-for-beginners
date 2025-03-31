@@ -4,6 +4,8 @@ We are very excited for you to start this course and see what you get inspired t
 
 To ensure your success, this page outlines setup steps, technical requirements, and where to get help if needed.
 
+***My Latest add thing*****
+
 ## Setup Steps
 
 To start taking this course, you will need to complete the following steps.
